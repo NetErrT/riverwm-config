@@ -1,22 +1,22 @@
 # packages
-# tofi
-# foot
-# mako
-# grim
-# slurp
-# pipewire-pulse
+tofi
+foot
+mako
+grim
+slurp
+pipewire-pulse
 
-# swaylock
-# swaybg
-# swayidle
+swaylock
+swaybg
+swayidle
 
-# xdg-desktop-portal-wlr
-# polkit-gnome
+xdg-desktop-portal-wlr
+polkit-gnome
 
-# cliphist
-# wl-clipboard
+cliphist
+wl-clipboard
 
-# wf-recorder
-# nnn
+wf-recorder
+nnn
 
-# LIBSEAT_BACKEND=logind
+LIBSEAT_BACKEND=logind

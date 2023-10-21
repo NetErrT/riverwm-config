@@ -1,0 +1,1 @@
+# riverwm-config

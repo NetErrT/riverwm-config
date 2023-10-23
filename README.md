@@ -17,6 +17,5 @@ cliphist
 wl-clipboard
 
 wf-recorder
-nnn
 
 LIBSEAT_BACKEND=logind

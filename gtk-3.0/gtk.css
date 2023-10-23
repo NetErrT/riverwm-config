@@ -8,8 +8,7 @@ headerbar.titlebar.default-decoration {
   box-shadow: none;
 }
 
-/* rm -rf window shadows */
-window.csd,             /* gtk4? */
-window.csd decoration { /* gtk3 */
+window.csd,
+window.csd decoration { 
   box-shadow: none;
 }
